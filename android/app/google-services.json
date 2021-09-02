@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "797175884019",
+    "project_id": "applogueofacebook",
+    "storage_bucket": "applogueofacebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797175884019:android:690e0a99e7d8971b95af86",
+        "android_client_info": {
+          "package_name": "com.example.app_logueo_facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797175884019-7tq0aloc6q06q8d3uhkkbv5g6qq4tv2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_logueo_facebook",
+            "certificate_hash": "4c8afab2c342633cb9639d1992b900fe4ec9c341"
+          }
+        },
+        {
+          "client_id": "797175884019-o6cpeab6fskl69ii6dgmgr115sr0avru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKIVdSNWeoo3clHbQGgTFh0_3g9Mxfb1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797175884019-o6cpeab6fskl69ii6dgmgr115sr0avru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
