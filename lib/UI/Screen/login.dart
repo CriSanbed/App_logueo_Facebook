@@ -88,7 +88,7 @@ class Login extends StatelessWidget {
               onPressed: () {},
               color: Color(0xFF04DE5B),
               child: const Text(
-                'Login',
+                'Login sin redes',
                 style: TextStyle(
                     color: Colors.white,
                     fontSize: 20,

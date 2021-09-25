@@ -30,7 +30,7 @@ class Profile extends StatelessWidget {
             height: 40.0,
             margin: const EdgeInsets.only(top: 15.0),
             child: const Text(
-              "Profile User",
+              "Perfil de Usuario",
               textAlign: TextAlign.center,
               style: TextStyle(fontSize: 30),
             ),
@@ -48,7 +48,7 @@ class Profile extends StatelessWidget {
           Container(
             margin: const EdgeInsets.only(top: 15.0),
             child: TextInput(
-                hint: "Hobbies and interests",
+                hint: "Hobbies e intereses",
                 inputType: TextInputType.text,
                 controller: _controllerHobbies,
                 maxLineas: 6),
@@ -63,7 +63,7 @@ class Profile extends StatelessWidget {
                 onPressed: () {},
                 color: Colors.lightBlue,
                 child: const Text(
-                  'Save',
+                  'GUARDAR',
                   style: TextStyle(color: Colors.white),
                 ),
               ),
